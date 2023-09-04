@@ -2,4 +2,4 @@
 <br>
 <br>
 <br>
-<h2 align= "center">Esse foi um projeto responsivo criardo em HTML, CSS e JavaScript na Plataforma Dev em Dobro. </h2>
+<h2 align= "center">Esse foi um projeto responsivo foi criardo em HTML, CSS e JavaScript na Imersão Dev em Dobro. </h2>
